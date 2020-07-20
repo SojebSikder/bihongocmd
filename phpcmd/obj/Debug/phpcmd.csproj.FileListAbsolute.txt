@@ -1,0 +1,6 @@
+E:\My Program\c#\phpcmd\phpcmd\bin\Debug\phpcmd.exe.config
+E:\My Program\c#\phpcmd\phpcmd\bin\Debug\phpcmd.exe
+E:\My Program\c#\phpcmd\phpcmd\bin\Debug\phpcmd.pdb
+E:\My Program\c#\phpcmd\phpcmd\obj\Debug\phpcmd.csprojResolveAssemblyReference.cache
+E:\My Program\c#\phpcmd\phpcmd\obj\Debug\phpcmd.exe
+E:\My Program\c#\phpcmd\phpcmd\obj\Debug\phpcmd.pdb
