@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+using LibGit2Sharp;
+
 namespace phpcmd
 {
     class Program
@@ -44,6 +46,17 @@ namespace phpcmd
                         {
                             Console.Write(item + "\n");
                         }
+                    }
+
+                    if(Maincmd == "install"){
+
+                        Console.Write("installing");
+                        if(Typecmd != null){
+
+                            //Repository.Clone("https://github.com/"+Typecmd+".git", Namecmd);
+                            Repository.Clone("https://github.com/"+Typecmd+".git",Namecmd);
+                        }
+
                     }
 
                     //Creating framework project
