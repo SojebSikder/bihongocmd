@@ -53,7 +53,6 @@ namespace phpcmd
                         Console.Write("installing");
                         if(Typecmd != null){
 
-                            //Repository.Clone("https://github.com/"+Typecmd+".git", Namecmd);
                             Repository.Clone("https://github.com/"+Typecmd+".git",Namecmd);
                         }
 
