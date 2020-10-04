@@ -112,7 +112,7 @@ namespace phpcmd
                     }
 
                 }
-                //Console.ReadLine();
+                Console.ReadLine();
             }
             catch(Exception ex)
             {

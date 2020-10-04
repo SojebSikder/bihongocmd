@@ -13,7 +13,7 @@ namespace phpcmd
                static string addressController = "app/controllers/";
                static string addressModel = "app/models/";
 
-                public static void Create(string projectName,string address)
+                public static void Create(string projectName, string address)
                 {
                     if (!Directory.Exists(address))
                     {

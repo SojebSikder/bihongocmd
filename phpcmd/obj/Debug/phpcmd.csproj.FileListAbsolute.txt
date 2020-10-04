@@ -15,3 +15,4 @@ E:\My Program\c#\bihongocmd\phpcmd\bin\Debug\LibGit2Sharp.dll
 E:\My Program\c#\bihongocmd\phpcmd\bin\Debug\LibGit2Sharp.xml
 E:\My Program\c#\bihongocmd\phpcmd\obj\Debug\phpcmd.exe
 E:\My Program\c#\bihongocmd\phpcmd\obj\Debug\phpcmd.pdb
+E:\My Program\c#\bihongocmd\phpcmd\obj\Debug\phpcmd.csprojResolveAssemblyReference.cache
