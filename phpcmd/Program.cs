@@ -50,10 +50,14 @@ namespace phpcmd
 
                     if(Maincmd == "install"){
 
-                        Console.Write("installing");
+                        Console.Write("installing...");
                         if(Typecmd != null){
 
                             Repository.Clone("https://github.com/"+Typecmd+".git",Namecmd);
+
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.Write("\ninstalled successfully");
+                            Console.ForegroundColor = ConsoleColor.Gray;
                         }
 
                     }
